@@ -1,0 +1,16 @@
+{
+  "name": "@vue/reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "buildOptions": {
+    "output": {
+      "name": "VueReactivity",
+      "format": [
+        "global",
+        "cjs",
+        "esm-bundler"
+      ]
+    }
+  }
+}
